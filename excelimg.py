@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Usage:  excelimg.py <sheetname> <cell> <jpgpath> <jpgheight> <jpgwidth> 
+# Usage:  excel_img.py <sheetname> <cell> <jpgpath> <jpgheight> <jpgwidth> 
 
 import sys
 import openpyxl as px
